@@ -53,7 +53,9 @@ hi ColorColumn          guibg=#3D4646
 " General Syntax Colors
 
 " Light green
-hi Comment              gui=NONE guifg=#C8F482 guibg=bg
+" hi Comment              gui=NONE guifg=#C8F482 guibg=bg
+" Light Gray
+hi Comment              gui=NONE guifg=#5e6161 guibg=bg
 
 " Green
 hi Identifier           gui=NONE guifg=#82c057 guibg=bg
